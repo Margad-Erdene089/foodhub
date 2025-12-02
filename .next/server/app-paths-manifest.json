@@ -3,7 +3,7 @@
   "/page": "app/page.js",
   "/robots.txt/route": "app/robots.txt/route.js",
   "/sitemap.xml/route": "app/sitemap.xml/route.js",
-  "/menu/page": "app/menu/page.js",
+  "/checkout/page": "app/checkout/page.js",
   "/order/page": "app/order/page.js",
-  "/checkout/page": "app/checkout/page.js"
+  "/menu/page": "app/menu/page.js"
 }

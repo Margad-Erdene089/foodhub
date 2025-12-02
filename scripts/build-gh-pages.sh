@@ -7,7 +7,7 @@
 export NODE_ENV=production
 
 # Set GitHub Pages specific variables
-export NEXT_PUBLIC_SITE_URL="https://trinhquocthinh.github.io/foodhub"
+export NEXT_PUBLIC_SITE_URL="https://margad-erdene089.github.io/"
 export NEXT_PUBLIC_BASE_PATH="/foodhub"
 
 # Clean previous builds
